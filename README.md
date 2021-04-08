@@ -1,7 +1,7 @@
 # All about me!
 > I am MrTron(Man), I like coding in JS, HTML and CSS.
 
-
+> I created a GitHub back in 2017, just never used it cause I wasn't into coding! But here we are!
 
 > I am currently learning HTML AND CSS.
 
