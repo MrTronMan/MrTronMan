@@ -10,7 +10,7 @@
 
 ### I am a JS Discord Bot God, if I do say so myself. 😉
 #### I am currently working on making my new site as practice and helping out people. 
-#### I am also working on my bot called Pigeon (for fun) and a ticket bot. (WIP).  
+#### I am also working on my bot called Pigeon (for fun) ~~and a ticket bot. (WIP)~~.  
 
 ## Email me at MrInvisible@OnMail.com if needed. 📧
 
