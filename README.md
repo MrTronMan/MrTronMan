@@ -15,5 +15,5 @@
 
 ## Email me at MrInvisible@OnMail.com if needed. 📧
 
-### [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/355295268716937227)](https://discord.com/users/355295268716937227)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/355295268716937227)](https://discord.com/users/355295268716937227)
 
