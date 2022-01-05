@@ -1,5 +1,5 @@
-# Hey! 👋
-### I am MrTron(Man), I like coding in JS, HTML and CSS.
+# Hey! <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Femoji.gg%2Fassets%2Femoji%2Fwavegif_1860.gif&f=1&nofb=1" alt="drawing" width="50"/>
+### I am MrTron(Man), but you can call me Will! I like coding in JS, HTML and CSS.
 
 ### **I am a JS developer and a System Administrator.** 👨‍💻
 
@@ -13,7 +13,7 @@
 #### I am currently working on maintaing and creating my minecraft server along with website to help me learn more.
 #### I am also working on my bot called Pigeon (for fun) ~~and a ticket bot. (WIP)~~.  
 
-## Email me at MrInvisible@OnMail.com if needed. 📧
+## Email me at [willys@duck.com](mailto:willys@duck.com?subject=Question%20from%20Github&body=%0A%0A%0A%0Agenerated%20from%20my%20Github%20%F0%9F%98%81%0A____________________________) if needed. 📧
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/355295268716937227)](https://discord.com/users/355295268716937227)
 
