@@ -16,4 +16,5 @@
 ## Email me at [willys@duck.com](mailto:willys@duck.com?subject=Question%20from%20Github&body=%0A%0A%0A%0Agenerated%20from%20my%20Github%20%F0%9F%98%81%0A____________________________) if needed. 📧
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/355295268716937227)](https://discord.com/users/355295268716937227)
+[![My Stats POG](https://github-readme-stats.vercel.app/api?username=MrTronMan&theme=midnight-purple)](https://hosting.tronmc.com)
 
