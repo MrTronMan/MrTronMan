@@ -13,7 +13,7 @@
 #### I am currently working on maintaing and creating my minecraft server along with website to help me learn more.
 #### I am also working on my bot called Pigeon (for fun) ~~and a ticket bot. (WIP)~~.  
 
-## Email me at [willys@duck.com](mailto:willys@duck.com?subject=Question%20from%20Github&body=%0A%0A%0A%0Agenerated%20from%20my%20Github%20%F0%9F%98%81%0A____________________________) if needed. 📧
+## Email me at [will@mrtron.dev](mailto:will@mrtron.dev?subject=Question%20from%20Github&body=%0A%0A%0A%0Agenerated%20from%20my%20Github%20%F0%9F%98%81%0A____________________________) if needed. 📧
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/355295268716937227)](https://discord.com/users/355295268716937227)
 [![My Stats POG](https://github-readme-stats.vercel.app/api?username=MrTronMan&theme=midnight-purple)](https://hosting.tronmc.com)
