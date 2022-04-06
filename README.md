@@ -5,7 +5,7 @@
 
 ### I created a GitHub back in 2017, just never used it cause I wasn't into coding! But here we are! 😀
 
-### I am currently learning Java. 😎
+### I am currently learning TypeScript. 😎
 
 ### Currently working on a new developer site. 😁
 ### I am a CSS/HTML god, if I do say so myself. 😉
