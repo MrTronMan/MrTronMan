@@ -7,7 +7,7 @@
 
 ### I am currently learning Java. 😎
 
-### Currently working on a new developer site. 😁
+### Currently working on a new plugin called [Amend.](https://amend.mrtron.dev) 😁
 ### I am a CSS/HTML god, if I do say so myself. 😉
 ### I am very good with Ubuntu & NGINX
 ### I am currently working on maintaing and creating my minecraft server along with website to help me learn more.
