@@ -1,3 +1,4 @@
+![](https://img.mrtron.dev/img/welcome-github-min.png)
 # Hey! <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Femoji.gg%2Fassets%2Femoji%2Fwavegif_1860.gif&f=1&nofb=1" alt="wave" width="50"/>
 ### I am MrTron(Man), but you can call me Will! I like coding in JS, HTML and CSS, and now Java.
 
