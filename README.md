@@ -11,7 +11,7 @@
 # Hey! <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Femoji.gg%2Fassets%2Femoji%2Fwavegif_1860.gif&f=1&nofb=1" alt="wave" width="50"/>
 ### I am MrTron(Man), but you can call me Will! I like coding in JS, HTML and CSS, and now Java.
 
-### **I am a JS developer and a System Administrator.** 👨‍💻
+### **I am a front-end developer, a photographer and a System Administrator.** 👨‍💻
 
 ### I created a GitHub back in 2017, I just never used it cause I hadn't discovered my love for code yet! Now here we are! 😀
 
