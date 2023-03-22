@@ -1,4 +1,4 @@
-![](https://img.mrtron.dev/img/welcome-github-bloodyvalentine-min.png)
+![](https://img.mrtron.dev/img/welcome-github-min.png)
 <br />
 <br />
 <br />
@@ -28,5 +28,5 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/355295268716937227)](https://discord.com/users/355295268716937227)
 [![My Stats POG](https://github-readme-stats.vercel.app/api?username=MrTronMan&theme=midnight-purple)](https://hosting.tronmc.com)
-![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FMrTronMan&bgRight=9745f5)
+![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2FMrTronMan&bgRight=9745f5)
 
