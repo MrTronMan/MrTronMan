@@ -1,4 +1,4 @@
-![](https://img.mrtron.dev/img/welcome-github-min.png)
+![](https://img.mrtron.dev/img/welcome-github-halloween-min.png)
 <br />
 <br />
 <br />
